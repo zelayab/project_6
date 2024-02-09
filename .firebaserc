@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "task06-e1cfe": {
+      "hosting": {
+        "app": [
+          "task06-e1cfe"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "task06-e1cfe"
+  }
+}
